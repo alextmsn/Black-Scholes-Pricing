@@ -1,20 +1,30 @@
-# Black-Scholes Option Pricing
+# 📈 Black-Scholes Option Pricing
 
-A simple Python package for pricing European options using the Black-Scholes model. Includes analytical pricing, Greek calculations, implied volatility estimation, and plotting.
+A clean Python implementation of the Black-Scholes model for pricing European options. Includes analytical pricing, Greek calculations, implied volatility estimation, and interactive visualizations.
+
+---
 
 ## 📦 Features
 
-- Call/Put option pricing (European)
-- Greeks: Delta, Gamma, Vega, Theta, Rho
-- Implied Volatility via Newton-Raphson
-- Option value visualization
+- 🧮 European Call/Put option pricing
+- 📊 Option Greeks: Delta, Gamma, Vega, Theta, Rho
+- 🔍 Implied volatility estimation via Newton-Raphson
+- 📈 Matplotlib-based option value charting
+- 🎛️ Interactive notebook with sliders using ipywidgets
+
+---
 
 ## 🔗 Launch Interactive Notebook
 
+Explore the model live in your browser — no setup required:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alextmsn/black-scholes-pricing/main?filepath=notebooks/interactive_demo.ipynb)
 
+---
 
-## 🚀 Installation
+## 🚀 Installation (Local Use)
+
+Clone the repo and install dependencies:
 
 ```bash
 git clone https://github.com/alextmsn/black-scholes-pricing.git
