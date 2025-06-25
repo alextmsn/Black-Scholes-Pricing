@@ -9,6 +9,11 @@ A simple Python package for pricing European options using the Black-Scholes mod
 - Implied Volatility via Newton-Raphson
 - Option value visualization
 
+## 🔗 Launch Interactive Notebook
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alextmsn/black-scholes-pricing/main?filepath=notebooks/interactive_demo.ipynb)
+
+
 ## 🚀 Installation
 
 ```bash
