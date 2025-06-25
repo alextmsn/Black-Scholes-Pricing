@@ -106,3 +106,4 @@ if __name__ == '__main__':
 
     # Example of implied volatility estimation
     print("Implied Vol (from market price 10):", bs.implied_volatility(market_price=10))
+    
